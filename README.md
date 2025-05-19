@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔥 Backend Developer <br>- 🔭 한양대학교 ERICA 에서 경제학과 미디어테크놀로지를 전공했습니다. <br>- 📚 현재 Node.js, CI/CD 를 공부중입니다. <br>- 🪪 megoeun7378@naver.com</p>
+<p align="left">- 🔥 Backend Developer <br>- 🔭 한양대학교 ERICA 에서 경제학과 미디어테크놀로지를 전공했습니다. <br>- 📚 현재 Node.js, TDD 를 공부중입니다. <br>- 🪪 megoeun7378@naver.com</p>
 
 ###
 
